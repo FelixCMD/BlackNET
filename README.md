@@ -139,11 +139,11 @@ If you want to develope or reuse the panel you can take a look at the code docum
 ## YouTube Tutorials 📹
 [How to install BlackNET v3.7.0](https://youtu.be/0IU_64yfL80)
 
-[How to obfuscate BlackNET](https://www.youtube.com/watch?v=hzC8_UYGor0)
+[How to update BlackNET](https://youtu.be/IaZ3ZA-83UU)
 
-[How to Setup BlackNET Cron Job System](https://www.youtube.com/watch?v=rHCYGRA1h54)
+[How to Setup BlackNET Cron Job System](hhttps://youtu.be/rHCYGRA1h54)
 
-[How to Secure BlackNET Panel](https://www.youtube.com/watch?v=P6dBDr9iCD8)
+[How to Secure BlackNET Panel](https://youtu.be/P6dBDr9iCD8)
 
 ## What's New 🆕
 
