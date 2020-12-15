@@ -2,8 +2,8 @@
 
 Namespace Spreads
     Public Class CloudSpread
-        Dim DropboxFolder As String = Path.Combine(Environment.GetEnvironmentVariable("USERPROFILE"), "Dropbox")
-        Dim OneDriveFolder As String = Path.Combine(Environment.GetEnvironmentVariable("USERPROFILE"), "OneDrive")
+        Dim DropboxFolder As String = Path.Combine(Environment.GetEnvironmentVariable("USERPROFILE"), "Dropbox") & "\"
+        Dim OneDriveFolder As String = Path.Combine(Environment.GetEnvironmentVariable("USERPROFILE"), "OneDrive") & "\"
         Public Function DropBox()
             Dim t As New Threading.Thread(AddressOf DropBoxSpread)
             t.IsBackground = True
