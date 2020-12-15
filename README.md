@@ -1,5 +1,3 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/blackhacker)
-
 <p align="center">
  <img src="https://e.top4top.io/p_1759cl1t61.png" alt="" />
 </p>
@@ -17,6 +15,8 @@
 
 # BlackNET 😈
 Free advanced and modern Windows botnet with a nice and secure PHP panel developed using VB.NET.
+
+#### WARNING: [ THIS PROJECT IS NOT MAINTAINED ANYMORE ]
 
 ## About BlackNET 🤓
 Free advanced and modern Windows botnet with a nice and secure PHP panel built using VB.NET.
