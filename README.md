@@ -141,7 +141,7 @@ If you want to develope or reuse the panel you can take a look at the code docum
 
 [How to update BlackNET](https://youtu.be/IaZ3ZA-83UU)
 
-[How to Setup BlackNET Cron Job System](hhttps://youtu.be/rHCYGRA1h54)
+[How to Setup BlackNET Cron Job System](https://youtu.be/rHCYGRA1h54)
 
 [How to Secure BlackNET Panel](https://youtu.be/P6dBDr9iCD8)
 
