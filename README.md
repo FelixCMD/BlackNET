@@ -124,7 +124,7 @@ Please use [Unzipper.php](https://github.com/ndeet/unzipper) to extract the pane
 
 If you want to develope or reuse the panel you can take a look at the code document to understand some of the functions and how to use them
 
-### [Documentation](https://fariscode511.github.io/BlackNET/)
+### [Documentation](https://blackhacker511.github.io/BlackNET/)
 
 ## Screenshots 🌌
 
