@@ -4,8 +4,6 @@
 
 <p align="center">
  <a href="#"><img align="center" src="https://img.shields.io/maintenance/no/2020" /></a>
- <a href="#"><img align="center" src="https://img.shields.io/github/license/FarisCode511/BlackNET" /></a>
- <a href="#"><img align="center" src="https://img.shields.io/github/languages/top/FarisCode511/BlackNET" /></a>
 </p>
 
 ---
@@ -14,7 +12,6 @@
 Free advanced and modern Windows botnet with a nice and secure PHP panel developed using VB.NET.
 
 #### WARNING: [ THIS PROJECT IS NOT MAINTAINED ANYMORE ]
-
 
 ## Requirements
 1. PHP >=  7.3
@@ -47,12 +44,6 @@ If you have BlackNET installed you need
 3. Update the new config.php
 4. Run update.php
 
-## How to secure BlackNET
-1. Remove install.php and update.php
-2. Enable Captcha using Google reCaptcha v3
-3. Enable 2FA on your account
-4. Add a security question
-
 ## How to use the File Searcher Function
 1. execute "Get file fom the system" command on the client
 2. use this pattern ``` %Userprofile%|[Here write extension list] ```
@@ -66,22 +57,6 @@ Pattern Example:
 ## 000Webhost notice
 
 Please use [Unzipper.php](https://github.com/ndeet/unzipper) to extract the panel files inside 000webhost filemanager
-
-## Documentation
-
-If you want to develope or reuse the panel you can take a look at the code document to understand some of the functions and how to use them
-
-### [Documentation](https://blackhacker511.github.io/BlackNET/)
-
-
-## YouTube Tutorials
-[How to install BlackNET v3.7.0](https://youtu.be/0IU_64yfL80)
-
-[How to update BlackNET](https://youtu.be/IaZ3ZA-83UU)
-
-[How to Setup BlackNET Cron Job System](https://youtu.be/rHCYGRA1h54)
-
-[How to Secure BlackNET Panel](https://youtu.be/P6dBDr9iCD8)
 
 ## Used Code
 | Developer       | Used Code    | Used For      |
