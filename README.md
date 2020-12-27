@@ -83,7 +83,7 @@ If you want to develope or reuse the panel you can take a look at the code docum
 
 [How to Secure BlackNET Panel](https://youtu.be/P6dBDr9iCD8)
 
-## Used Code 🔧
+## Used Code
 | Developer       | Used Code    | Used For      |
 | :-------------: | :----------: | :-----------: |
 | KFC Watermelon  | PlasmaRAT    | BlackNET DDoS |
@@ -92,7 +92,7 @@ If you want to develope or reuse the panel you can take a look at the code docum
 | LimerBoy        | JSONReader   | Firefox Stealer | 
 | Amadeus         | XMR Miner    | XMR Miner       |
 
-## Used Libraries 🤖
+## Used Libraries
 1. PHPMailer
 2. Google reCaptcha
 3. PHPSpreadsheet
@@ -102,5 +102,5 @@ If you want to develope or reuse the panel you can take a look at the code docum
 ## LEGAL DISCLAIMER PLEASE READ!
 ##### I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
 
-## License ⚖️
+## License
 This project is licensed under the MIT License
